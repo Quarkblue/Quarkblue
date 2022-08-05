@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quarkblue
+- 👋 Hi, I’m Quark Blue
 - 👀 I’m interested in Software development and backend programming
 - 🌱 I’m currently learning javascript,C++ and python
 - 💞️ I’m looking to collaborate on any type of projects that require software or backend development
