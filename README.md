@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript,C++ and python
 - 💞️ I’m looking to collaborate on any type of projects that require software or backend development
 - 📫 Reaching me is just an email away (d.s.c.r.3012@gmail.com)
-- 💼 Here you can see [My Portfolio](https://quarkblue.github.io/)
+- 💼 Here you can see [My Portfolio](https://quarkblue.github.io/){:target="_blank" rel="noopener}
 
 <!---
 Quarkblue/Quarkblue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
