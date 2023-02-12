@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Divyansh Chauhan (A.K.A Quark Blue).
+- 👋 Hi, I’m Divyansh Chauhan
 - 📖 I'm a self taught Programmer.
 - 👀 I’m interested in Software development and backend programming.
 - 🌱 I’m currently learning javascript,C++, Python and Web3 Development.
