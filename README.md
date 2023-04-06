@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, React**
 
-- 👨‍💻 All of my projects are available at [https://www.quarkblue.github.io](https://www.quarkblue.github.io)
+- 👨‍💻 All of my projects are available at [https://quarkblue.github.io](https://quarkblue.github.io)
 
 - 💬 Ask me about **Python, C++, C#, Unity**
 
