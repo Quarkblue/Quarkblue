@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/u/0/uc?id=1J0GbUsqRNJef_GPALf-TXKnpCfDruAFo&export=download](https://drive.google.com/u/0/uc?id=1J0GbUsqRNJef_GPALf-TXKnpCfDruAFo&export=download)
 
-- ⚡ Fun fact **I use speakers instead of headphones/earphones**
+- ⚡ Fun fact **you can use else statment with for-loop in python(for-else statement)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
