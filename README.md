@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flutter, React**
 
-- 👨‍💻 All of my projects are available at [https://quarkblue.github.io](https://quarkblue.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://quarkblue.github.io)
 
 - 💬 Ask me about **Python, C++, C#, Unity**
 
 - 📫 How to reach me **d.s.c.r.3012@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/u/0/uc?id=1J0GbUsqRNJef_GPALf-TXKnpCfDruAFo&export=download](https://drive.google.com/u/0/uc?id=1J0GbUsqRNJef_GPALf-TXKnpCfDruAFo&export=download)
+- 📄 Know about my experiences [Resume](https://drive.google.com/u/0/uc?id=1J0GbUsqRNJef_GPALf-TXKnpCfDruAFo&export=download)
 
 - ⚡ Fun fact **you can use else statment with for-loop in python(for-else statement)**
 
