@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **d.s.c.r.3012@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/u/0/uc?id=1J0GbUsqRNJef_GPALf-TXKnpCfDruAFo&export=download)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/drive/folders/1zst8E2XRHTEQVIQV5oVxdtvZol_g9HJV?usp=drive_link)
 
 - ⚡ Fun fact **you can use else statment with for-loop in python(for-else statement)**
 
