@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://quarkblue.github.io)
 
-- 💬 Ask me about **Python, C++, C#, Unity**
+- 💬 Ask me about **Python, C++, C#, Unity, Flutter/Dart**
 
 - 📫 How to reach me **d.s.c.r.3012@gmail.com**
 
