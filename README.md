@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [Py-AIDS](https://github.com/Quarkblue/Py-AIDS)
+- 🔭 I’m currently working on [Motion Capture](https://github.com/Quarkblue/MotionCapture)
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://quarkblue.github.io)
 
