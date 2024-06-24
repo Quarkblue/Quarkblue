@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on [Motion Capture](https://github.com/Quarkblue/MotionCapture)
+- 🔭 I’m currently working on
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Api development**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://quarkblue.github.io)
 
-- 💬 Ask me about **Python, C++, C#, Unity, Flutter/Dart**
+- 💬 Ask me about **Python, C++, C#, Unity, Flutter/Dart, JS**
 
 - 📫 How to reach me **d.s.c.r.3012@gmail.com**
 
