@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on **quite a few things**
 
-- 🌱 I’m currently learning **Api development**
+- 🌱 I’m currently learning ... (god knows)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://quarkblue.github.io)
 
-- 💬 Ask me about **Python, C++, C#, Unity, Flutter/Dart, JS**
+- 💬 Ask me about **Python, C++, C#, Unity, Flutter/Dart, NextJS**
 
 - 📫 How to reach me **d.s.c.r.3012@gmail.com**
 
